@@ -6,6 +6,7 @@
 // @match        *://steamcommunity.com//minigame/towerattack*
 // @match        *://steamcommunity.com//minigame/towerattack/*
 // @match        *://steamcommunity.com/minigame/towerattack/*
+// @downloadURL https://raw.githubusercontent.com/An4ki/yaya/master/autoreload.js
 // @include     http://ww.bbc.co.uk//
     // @grant               none
 // ==/UserScript==
